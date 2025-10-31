@@ -7,4 +7,4 @@ Bu proje, **İşletim Sistemleri** dersi kapsamında **Dr. Öğr. Üyesi Hasan S
 - **DOKTOR ÖĞRETİM ÜYESİ HASAN SERDAR**
 
 ## YouTube Tanıtım Videosu:
-gelicek.
+https://youtu.be/QDmGfF3QAHI
