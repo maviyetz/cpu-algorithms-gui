@@ -6,5 +6,3 @@ Bu proje, **İşletim Sistemleri** dersi kapsamında **Dr. Öğr. Üyesi Hasan S
 ## Danışman Öğretmen:
 - **DOKTOR ÖĞRETİM ÜYESİ HASAN SERDAR**
 
-## YouTube Tanıtım Videosu:
-https://youtu.be/QDmGfF3QAHI
